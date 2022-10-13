@@ -1,7 +1,7 @@
 # oop
 # Lab05
 
-### by [alaa abualadoos](https://www.linkedin.com/in/alaa-abu-al-adoos-047428237/)
+### by [alaa abualadoos](https://github.com/alaa-adoos/pythonic-garage-band/pull/2)
 
 ### setup
 
