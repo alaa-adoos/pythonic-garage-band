@@ -5,7 +5,7 @@
 
 ### setup
 
-## [pull request](https://github.com/alaa-adoos/pythonic-garage-band)
+## [pull request](https://github.com/alaa-adoos/pythonic-garage-band/pull/1)
 ## to run the application :
 **python -m pythonic_garage_band.band**
 
